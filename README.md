@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: accessing vector elements without checking bounds. The bug.rs file contains code that may panic due to an out-of-bounds index. The bugSolution.rs provides a solution using safe methods.
